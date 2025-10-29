@@ -989,7 +989,7 @@ textarea:focus-visible {
 .f-nav ul, .contact-info{
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 14px;
   display: grid;
   gap: 8px;
 }
